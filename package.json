@@ -1,0 +1,24 @@
+{
+  "name": "iskenny",
+  "version": "1.0.0",
+  "description": "A package that indicates if your string input is kenny or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twong0088/isKenny.git"
+  },
+  "keywords": [
+    "kenny",
+    "true",
+    "false"
+  ],
+  "author": "notkenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twong0088/isKenny/issues"
+  },
+  "homepage": "https://github.com/twong0088/isKenny#readme"
+}
